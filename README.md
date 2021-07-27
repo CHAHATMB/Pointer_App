@@ -57,12 +57,12 @@ To get a local copy up and running follow these simple example steps.
 <h3>
 Home page
 </h3>
-<img src="src/public/images/img1.png" >
+<img src="public/images/img1.png" >
 
 </br>
-<a><h3>Calculator Page</h3><img src="src/public/images/img2.png" >
+<a><h3>Calculator Page</h3><img src="public/images/img2.png" >
 </a>
-<a><img src="src/public/images/img3.png" >
+<a><img src="public/images/img3.png" >
 </a>
 
 
